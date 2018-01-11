@@ -1,0 +1,8 @@
+The following can be taken as possible unit test cases for a stapler:
+
+-if there are pins in the stapler or is it empty.
+-if the size of the pins available match the size required by the stapler.
+-if the stapler is damaged in any way or not.
+-if the pins are damaged in any way or are ready to be loaded.
+-if the max no. of pins that can be inserted is reached or is there more space for the pins.
+-max no. of pages that it can pin in one action.
